@@ -490,6 +490,9 @@
       <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_MM4_Balloon_Adapter.ips" />
       <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_MM5_Mtank.ips" />
       <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_Rinka_Spawner.ips" />
+      <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_MM4.ips" />
+      <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_MM5.ips" />
+      <None Remove="Resources\SpritePatches\Environment\YokuBlock\YokuBlock_MM6.ips" />
       <None Remove="Resources\SpritePatches\Fonts\Font_Batman.ips" />
       <None Remove="Resources\SpritePatches\Fonts\Font_CutMansBadScissorsDay.ips" />
       <None Remove="Resources\SpritePatches\Fonts\Font_DoubleDragon2.ips" />
